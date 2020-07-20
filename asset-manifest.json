@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/test-web-deploy/static/js/app.3590b1d2.chunk.js",
+    "app.js.map": "/test-web-deploy/static/js/app.3590b1d2.chunk.js.map",
+    "runtime~app.js": "/test-web-deploy/static/js/runtime~app.e1b45172.js",
+    "runtime~app.js.map": "/test-web-deploy/static/js/runtime~app.e1b45172.js.map",
+    "static/js/2.8782c16e.chunk.js": "/test-web-deploy/static/js/2.8782c16e.chunk.js",
+    "static/js/2.8782c16e.chunk.js.map": "/test-web-deploy/static/js/2.8782c16e.chunk.js.map",
+    "favicon-16.png": "/test-web-deploy/favicon-16.png",
+    "favicon-32.png": "/test-web-deploy/favicon-32.png",
+    "favicon.ico": "/test-web-deploy/favicon.ico",
+    "index.html": "/test-web-deploy/index.html",
+    "manifest.json": "/test-web-deploy/manifest.json",
+    "serve.json": "/test-web-deploy/serve.json",
+    "static/js/2.8782c16e.chunk.js.LICENSE.txt": "/test-web-deploy/static/js/2.8782c16e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.e1b45172.js",
+    "static/js/2.8782c16e.chunk.js",
+    "static/js/app.3590b1d2.chunk.js"
+  ]
+}
